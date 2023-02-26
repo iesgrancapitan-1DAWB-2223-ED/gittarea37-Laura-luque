@@ -6,8 +6,8 @@
     Una vez terminado la anterior y ahora individualmente, cada uno en su repositorio, hace un commit más, a este último commit añadile un tag que se llame "v1.0".
 
     Después haced un clone del repositorio del tag "v1.0" en el Linux que estamos usando para la práctica.
-
-1. Nos dirigimos al repo de nuestro compañero y copiamos su url para clonar el repo en nuestro PC local y poder trabajar con él:
+-------------------------
+Nos dirigimos al repo de nuestro compañero y copiamos su url para clonar el repo en nuestro PC local y poder trabajar con él:
 
 ![I.1](Capturas/1.PNG)
 
